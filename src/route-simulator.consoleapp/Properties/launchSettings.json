@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "route-simulator.consoleapp": {
+      "commandName": "Project",
+      "commandLineArgs": "input-routes.csv"
+    }
+  }
+}
